@@ -1,0 +1,85 @@
+<html><head>
+<meta name="viewport" content="width=device-width">
+<link rel="stylesheet prefetch" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+  <style>
+    .block{
+  background-color:black;
+  opacity:0.7;
+  padding:10px;
+}
+.nav-pills{
+  font-family:Oxygen;
+  font-size:1.5em;
+  color:#E74C3C;
+  background-color:black;
+  opacity: 0.7;
+}
+
+body{
+  background-color:black;
+  font-family:Oxygen;
+  color:grey;
+}
+
+h1 { 
+  padding:0;
+  margin-top:0px;
+  font-size:7.0em;
+  color:#D5DBDB;
+  align:center;
+}
+.btn-default{
+  color:black;
+  font-size:1.5em;
+  background-color:grey;
+  border-color:black;
+}
+
+.pageOne{
+  background: url(https://i.imgur.com/g0sDwKD.jpg);
+  background-size:cover;
+  height:2500px;
+  padding: 50px;
+  margin-bottom: ;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <link href="https://fonts.google.com/specimen/Oxygen?    selection.family=Oxygen" rel="stylesheet" type="text/css" <="" header="">
+
+<div class="container-fluid" style="
+    height: 100%;
+">
+  <ul class="nav nav-pills">
+    <li>
+      <a href="#">Brendan "Bmac" McCabe</a>
+    </li>
+    <li class="pull-right">
+      <a href="#">About Me</a>
+    </li>
+    <li class="pull-right">
+      <a href="#">Resume</a>
+    </li>
+    
+    <li class="pull-right">
+      <a href="#">Projects</a>
+    </li>
+  </ul>
+ <div class="pageOne" style="
+    height: 100%;
+">
+   <div class="block text-center">
+   <h1>Brendan "Bmac" McCabe</h1>
+   <h2>Junior Programmer</h2>
+   </div>
+   <div class="btnList">
+     <a class="btn btn-default" href="#">LinkedIn</a>
+     <a class="btn btn-default" href="#">Github</a>
+   </div>
+</div>
+
+
+
+</div></header></body></html>
